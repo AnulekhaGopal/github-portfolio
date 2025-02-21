@@ -1,0 +1,38 @@
+[
+  {
+    "sectionName": "Programming Languages",
+    "description": "C#, Typescript, JavaScript, jQuery, XSLT, JSON, XML, HTML5, CSS"
+  },
+  {
+    "sectionName": "Framework and Libraries",
+    "description": "React.js (Redux, Hooks, Router), .Net8, .NET Framework, ASP.Net Web, ASP.Net Core, ASP.NET MVC, Entity Framework, EXT.Net, NHibernate"
+  },
+  {
+    "sectionName": "Database Development",
+    "description": "(relational) MS SQL Server, (Non – relational) Cosmos DB, MongoDB (Cache) Redis"
+  },
+  {
+    "sectionName": "Cloud Platform",
+    "description": "Microsoft Azure (Azure Functions, Azure Service Bus, Application Insights)"
+  },
+  {
+    "sectionName": "API",
+    "description": "Azure API Management (APIM), RESTful APIs, WCF(SOAP), Microservices"
+  },
+  {
+    "sectionName": "Authorization Protocols",
+    "description": "OAuth 2.0, OpenID Connect"
+  },
+  {
+    "sectionName": "Unit Testing",
+    "description": "MSTest, NUnit"
+  },
+  {
+    "sectionName": "Development & Testing tools",
+    "description": "Visual Studio, Visual Studio Code, SQL Management Studio, Postman, SoapUI, SQL Profiler"
+  },
+  {
+    "sectionName": "Methodologies & Version Control",
+    "description": "Agile, Scrum, Kanban, Waterfall, Git, GitHub Desktop, Azure Devops, Jira, SVN, TFS"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "companyName": "ACNIELSEN (NIQ)",
+    "title": "Technical Lead/ Senior Software Developer",
+    "duration": "",
+    "description": " I played a key role in modernizing legacy applications by migrating them to React and Typescript-based SPAs. I designed and developed REST-based web APIs using Azure Functions and .NET 8, leveraging Azure Service Bus for event-driven architecture and securing them with OpenID Connect and OAuth 2.0. I also led the development of a scalable Order Processing System using Azure Durable Functions and Salesforce integration, resulting in a cost-effective and reliable solution. Furthermore, I contributed to performance optimizations, release management, and code quality through code reviews and Git workflows."
+  },
+  {
+    "companyName": "DELL INC.",
+    "title": "Technical Lead",
+    "duration": "Oct 2015 - Feb 2021",
+    "description": "I led a team of 3 developers in developing and enhancing the Online Solution Configurator (OSC), a web application for configuring complex Dell enterprise solutions using React.js and ASP.NET MVC. I designed and developed critical application modules, including the Quote API and Pricing Calculator, using ASP.NET Core Web API and RabbitMQ. I also developed the Order Failure Analysis Tool, a Windows application that automated root cause analysis for e-commerce order failures, significantly reducing analysis time. My responsibilities also included supporting application releases using a blue-green deployment strategy and managing code using Git workflows"
+  },
+  {
+    "companyName": "Aditi Technologies",
+    "title": "Technical Lead",
+    "duration": "Apr 2015 - Oct 2015",
+    "description": "As a Technical Lead at Aditi Technologies, I led a team of 3 developers, providing functional and technical guidance and performing code reviews. I implemented responsive and interactive user interfaces with jQuery and Backbone.js and developed web applications using ASP.NET MVC C# with Entity Framework and SQL Server. My responsibilities included conducting requirement analysis and translating business needs into technical specifications"
+  },
+  {
+    "companyName": "Capco Technologies Private Ltd",
+    "title": "Technical Lead",
+    "duration": "Jun 2012 - Mar 2015",
+    "description": " I led a team of 4 developers and developed web applications using Model-View-Controller architecture and jQuery for enhanced end-user interactivity. I handled complex modules, conducted unit testing using NUnit, and performed peer reviews. My responsibilities also included developing APIs using WCF for inter-process communication and utilizing SCRUM for project management."
+  },
+  {
+    "companyName": "MindTree Ltd",
+    "title": "Technical Lead",
+    "duration": "Sep 2005 - May 2012",
+    "description": "I managed a team of 3 developers and implemented web applications using ASP.NET MVC C#, written unit test cases using NUnit, created endpoints using WCF, and conducted peer reviews. I also learned and implemented Ext.Net technology, subsequently training team members, and developed responsive desktop applications using XAML, WPF MVVM."
+  }
+]
