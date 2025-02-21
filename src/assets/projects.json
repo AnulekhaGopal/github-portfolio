@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SubscriberManagementAPI",
+    "company": "ACNielsen",
+    "technologies": "Azure Functions, Azure Service bus, C#, SQL Server,Salesforce Integration, Redis Cache",
+    "diagram": "",
+    "description": ""
+  },
+  {
+    "name": "OrderManagementAPI",
+    "company": "ACNielsen",
+    "technologies": "Azure Functions, Azure Service bus,Azure Cosmos DB, C#, SQL Server,Salesforce Integration, Redis Cache",
+    "diagram": "",
+    "description": ""
+  },
+  {
+    "name": "React SPA Applications - ServiceTypeManager and RetailDashboard",
+    "company": "ACNielsen",
+    "technologies": "React.js, typescript, Bootstrap css, React Hooks",
+    "diagram": "",
+    "description": ""
+  },
+  {
+    "name": "Retailer Report Import Tool",
+    "company": "ACNielsen",
+    "technologies": "Windows Forms, C#, SQL Server, SQL Agent Job, Excel Reader",
+    "diagram": "",
+    "description": ""
+  },
+  {
+    "name": "Enterprise eCommerce Application - Online Solution Configurator",
+    "company": "Dell Inc",
+    "technologies": "React.js, Microfrontend, ASP.Net Core API, SQL Server, Mongo DB, Rabbit MQ, Elastic Search ",
+    "diagram": "",
+    "description": ""
+  },
+  {
+    "name": "Order Failure Analysis Tool",
+    "company": "Dell Inc",
+    "technologies": "Windows Forms, SQL Server, ASP.NET MVC",
+    "diagram": "",
+    "description": ""
+  }
+]
